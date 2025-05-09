@@ -1,1 +1,1 @@
-# class-assignments
+# Class Assignments
